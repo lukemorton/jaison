@@ -1,6 +1,6 @@
 # Jaison
 
-!["Image of Jaison mascot"](jaison.png)
+!["Image of Jaison mascot"](jaison-250x250.png)
 
 ```ts
 import { chain } from "jaison";
